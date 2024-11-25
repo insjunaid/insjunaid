@@ -1,3 +1,7 @@
+![converted_image](https://github.com/user-attachments/assets/8e4456ca-869a-48ff-84ae-5e145ddd318b)
+
+
+
 <h1 align="center">Hi 👋, I'm JUNAID SHARIFF</h1>
 <h3 align="center">AI-ML ENTHUSIAST </h3>
 
