@@ -2,8 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm JUNAID SHARIFF</h1>
-<h3 align="center">AI-ML ENTHUSIAST </h3>
+<h1 align="light">Hi 👋, I'm JUNAID SHARIFF</h1>
+<h3 align="light">AI-ML ENTHUSIAST </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="insjunaid" /> </p>
 
