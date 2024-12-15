@@ -1,4 +1,4 @@
-![p_resized](https://github.com/user-attachments/assets/b95c61ef-cacb-409b-952e-82bbbd4348bd)
+![p_full_width](https://github.com/user-attachments/assets/f75ca31d-c2b2-4d2e-b68a-c647a5b801ac)
 
 <h1 align="light">Hi 👋, I'm JUNAID SHARIFF</h1>
 <h3 align="light">AI-ML ENTHUSIAST </h3>
