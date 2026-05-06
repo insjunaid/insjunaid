@@ -60,20 +60,7 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=insjunaid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=insjunaid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img width="850" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=insjunaid&theme=radical&hide_border=true" alt="GitHub Streak" />
