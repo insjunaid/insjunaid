@@ -1,9 +1,20 @@
 
-<img align="center" width="700" height="350" src="https://github.com/user-attachments/assets/b0acae76-97e3-41dd-b608-f38f5ff8e78a" alt="ChatGPT Image" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="750" height="350" alt="AI/ML Banner" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
+      </td>
+      <td align="center" valign="middle" width="150">
+        <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 👋 Hi, I'm Junaid Shariff
 
-<h3> 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI</h3>
+<h3 align="center">🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI</h3>
 
 ---
 
