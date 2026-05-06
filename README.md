@@ -1,4 +1,4 @@
-![p_resized](https://github.com/user-attachments/assets/51ddcfaa-6496-49fb-877e-f6261c0647b7)
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
 
 
 # 👋 Hi, I'm Junaid Shariff
