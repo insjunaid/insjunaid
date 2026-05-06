@@ -1,24 +1,96 @@
 ![p_resized](https://github.com/user-attachments/assets/51ddcfaa-6496-49fb-877e-f6261c0647b7)
 
 
-<h1 align="center">Hi 👋, I'm Junaid Shariff</h1>
-<h3 align="center">AI | ML | DATA SCIENCE | GEN AI | AGENTIC AI</h3>
+# 👋 Hi, I'm Junaid Shariff
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="insjunaid" /> </p>
+## 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI
 
-- 📫 How to reach me **shariffjunaid2004@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/junaid-shariff10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-shariff10/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/junaidsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/junaidsh" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/570019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="570019" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a passionate AI/ML engineer and data scientist with a deep interest in building intelligent systems, generative AI applications, and autonomous agents. I love solving complex problems through data-driven approaches and creating scalable solutions that make an impact.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=insjunaid&show_icons=true&locale=en&layout=compact" alt="insjunaid" /></p>
+**Currently exploring:** Agentic AI systems, Large Language Models, and advanced data science applications.
+
+---
+
+## 📬 Get in Touch
+
+- **Email:** shariffjunaid2004@gmail.com
+- **LinkedIn:** [linkedin.com/in/junaid-shariff10](https://www.linkedin.com/in/junaid-shariff10/)
+- **Kaggle:** [kaggle.com/junaidsh](https://www.kaggle.com/junaidsh)
+- **TopCoder:** [topcoder.com/members/570019](https://www.topcoder.com/members/570019)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ML & Data Science Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="48%">
+      <img src="https://github-readme-stats.vercel.app/api?username=insjunaid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="48%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insjunaid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insjunaid&theme=radical&hide_border=true" alt="GitHub Streak" width="65%" />
+</div>
+
+---
+
+## 🎯 Key Interests
+
+- 🤖 **Generative AI & LLMs** - Building applications with cutting-edge language models
+- 🧠 **Machine Learning** - Supervised, unsupervised learning, and deep neural networks
+- 📈 **Data Science** - EDA, feature engineering, and predictive modeling
+- 🎯 **Agentic AI** - Autonomous systems and intelligent agents
+- 🖼️ **Computer Vision** - Image processing and object detection
+- 🚀 **Scalable Solutions** - Cloud deployment and production ML systems
+
+---
+
+## 💡 Let's Collaborate!
+
+I'm open to collaborations on exciting AI/ML projects, data science challenges, and innovative applications. Feel free to reach out!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 
 
