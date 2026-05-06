@@ -1,6 +1,6 @@
-<img width="750" height="350" alt="ChatGPT Image May 7, 2026, 01_15_52 AM" src="https://github.com/user-attachments/assets/b0acae76-97e3-41dd-b608-f38f5ff8e78a" />
 
 
+<img align="center" width="700" height="350" src="img width="750" height="350" alt="ChatGPT Image May 7, 2026, 01_15_52 AM" src="https://github.com/user-attachments/assets/b0acae76-97e3-41dd-b608-f38f5ff8e78a" alt="description" />
 # 👋 Hi, I'm Junaid Shariff
 
 <h3> 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI</h3>
