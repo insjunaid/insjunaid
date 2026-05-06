@@ -1,13 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <img width="700" height="350" alt="AI/ML Banner" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
-    </td>
-    <td align="center" valign="middle" width="300">
-      <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<img width="700" height="400" alt="ChatGPT Image May 7, 2026, 01_15_52 AM" src="https://github.com/user-attachments/assets/b0acae76-97e3-41dd-b608-f38f5ff8e78a" />
+
 
 # 👋 Hi, I'm Junaid Shariff
 
@@ -76,3 +68,4 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 I'm open to collaborations on exciting AI/ML projects, data science challenges, and innovative applications. Feel free to reach out!
 
 ---
+<img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
