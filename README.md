@@ -1,9 +1,15 @@
-<img width="700" height="350" alt="Image" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
-
-
-# 👋 Hi, I'm Junaid Shariff
-
-## 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI
+<table>
+  <tr>
+    <td>
+      <img width="700" height="350" alt="AI/ML Banner" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
+    </td>
+    <td align="center" valign="middle">
+      <h1>👋 Hi, I'm Junaid Shariff</h1>
+      <h3>🤖 AI | 🧠 ML | 📊 DATA SCIENCE<br>✨ GEN AI | 🎯 AGENTIC AI</h3>
+      <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,6 +26,7 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 - **Email:** shariffjunaid2004@gmail.com
 - **LinkedIn:** [linkedin.com/in/junaid-shariff10](https://www.linkedin.com/in/junaid-shariff10/)
 - **Kaggle:** [kaggle.com/junaidsh](https://www.kaggle.com/junaidsh)
+- **TopCoder:** [topcoder.com/members/570019](https://www.topcoder.com/members/570019)
 
 ---
 
@@ -51,7 +58,26 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=insjunaid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=insjunaid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img width="850" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=insjunaid&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ## 🎯 Key Interests
 
@@ -73,6 +99,3 @@ I'm open to collaborations on exciting AI/ML projects, data science challenges, 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
-
-
-
