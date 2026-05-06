@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Junaid Shariff
 
-🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI
+<h3> 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI</h3>
 
 ---
 
