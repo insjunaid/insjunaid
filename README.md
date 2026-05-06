@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/f2b9713a-2852-41a8-831a-478da4ec7cca" />
 
 
 # 👋 Hi, I'm Junaid Shariff
