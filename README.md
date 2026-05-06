@@ -28,7 +28,6 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 - **Email:** shariffjunaid2004@gmail.com
 - **LinkedIn:** [linkedin.com/in/junaid-shariff10](https://www.linkedin.com/in/junaid-shariff10/)
 - **Kaggle:** [kaggle.com/junaidsh](https://www.kaggle.com/junaidsh)
-- **TopCoder:** [topcoder.com/members/570019](https://www.topcoder.com/members/570019)
 
 ---
 
@@ -58,13 +57,6 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-
-
-<div align="center">
-  <img width="850" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=insjunaid&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -84,7 +76,3 @@ I'm a passionate AI/ML engineer and data scientist with a deep interest in build
 I'm open to collaborations on exciting AI/ML projects, data science challenges, and innovative applications. Feel free to reach out!
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=insjunaid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
