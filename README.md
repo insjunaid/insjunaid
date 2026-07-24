@@ -1,4 +1,4 @@
-<img align="center" width="700" height="350" src="https://github.com/user-attachments/assets/b0acae76-97e3-41dd-b608-f38f5ff8e78a" alt="ChatGPT Image" />
+
 
 # 👋 Hi, I'm Junaid Shariff
 
