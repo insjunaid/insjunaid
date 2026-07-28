@@ -1,6 +1,7 @@
 
 
-# 👋 Hi, I'm Junaid Shariff
+# 👋 Hi, I'm Junaid Shariff 
+AI ENGINEER
 
 <h3> 🤖 AI | 🧠 ML | 📊 DATA SCIENCE | ✨ GEN AI | 🎯 AGENTIC AI </h3>
 
