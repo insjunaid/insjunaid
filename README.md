@@ -20,7 +20,7 @@ I'm a passionate **AI Engineer** with a deep interest in building intelligent sy
 - **Email:** shariffjunaid2004@gmail.com
 - **LinkedIn:** [linkedin.com/in/junaid-shariff10](https://www.linkedin.com/in/junaid-shariff10/)
 - **Kaggle:** [kaggle.com/junaidsh](https://www.kaggle.com/junaidsh)
-- **Portfolio:** [MyPortfolio](https://github.com/insjunaid/MyPortFolio)
+- **Portfolio:** [MyPortfolio](https://insjunaid.github.io/MyPortFolio/)
 ---
 
 ## 🛠️ Tech Stack
