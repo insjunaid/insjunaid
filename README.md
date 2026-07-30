@@ -56,7 +56,7 @@ I'm a passionate **AI Engineer** with a deep interest in building intelligent sy
 
 - 🤖 **Generative AI & LLMs** - Building applications with cutting-edge language models
 - 🧠 **Machine Learning** - Supervised, unsupervised learning, and deep neural networks
-- 📈 **Data Science** - EDA, feature engineering, and predictive modeling
+- 📈 **Data Science** - EDA, feature engineering, predictive modeling and system design
 - 🎯 **Agentic AI** - Autonomous systems and intelligent agents
 - 🖼️ **Computer Vision** - Image processing and object detection
 - 🚀 **Scalable Solutions** - Cloud deployment and production ML systems
