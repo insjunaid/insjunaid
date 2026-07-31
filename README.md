@@ -11,7 +11,7 @@
 
 I'm a passionate **AI Engineer** with a deep interest in building intelligent systems, generative AI applications, and autonomous agents. I love solving complex problems through data-driven approaches and creating scalable solutions that make an impact.
 
-**Currently exploring:** Agentic AI systems, Large Language Models, RAG and advanced data science applications.
+**Currently exploring:** Agentic AI systems, Large Language Models, Advanced RAG and Advanced data science applications.
 
 ---
 
