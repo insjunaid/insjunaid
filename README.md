@@ -49,7 +49,7 @@ I'm a passionate **AI Engineer** with a deep interest in building intelligent sy
 ![FastApi](https://img.shields.io/badge/FastApi-008000?style=for-the-badge&logo=FastApi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/Github-008000?style=for-the-badge&logo=FastApi&logoColor=white)
 
 ---
 
