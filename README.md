@@ -112,29 +112,6 @@ Instead of a wall of logos, here's how the tools actually fit into how I work:
 
 </details>
 
-<br>
-
-## 🐍 Live Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/insjunaid/insjunaid/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake — see setup note below"/>
-</div>
-
-> **Setup note:** this snake animates automatically once you add the
-> [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo
-> (`insjunaid/insjunaid`) — it renders your real contribution graph as a
-> snake eating its way through your commits, regenerated daily via a
-> scheduled workflow. Ask me and I'll generate the exact `.yml` for you.
-
-<br>
-
-## 🏆 A Few Milestones, Gamified
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=insjunaid&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7&title=Commits,Stars,PullRequest,Repositories,Followers"/>
-</div>
-
-<br>
 
 ## 🗺️ How I Approach a Problem
 
